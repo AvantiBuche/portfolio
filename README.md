@@ -6,7 +6,7 @@ A cozy, interactive portfolio website built with **Streamlit**, inspired by the 
 
 ## Live Demo
 
-Deployed on Streamlit Cloud → [your-app-url.streamlit.app](#)
+Deployed on Streamlit Cloud → [avantibuche.streamlit.app](https://avantibuche.streamlit.app/)
 
 ---
 
