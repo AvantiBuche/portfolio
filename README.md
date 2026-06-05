@@ -77,7 +77,7 @@ streamlit run app.py
 
 ## Deploy to Streamlit Cloud
 
-1. Push all files to a GitHub repo:
+1. Pushed all files to a GitHub repo:
 ```bash
 git add app.py portfolio.html requirements.txt cozy_room.jpg music.mp3
 git commit -m "portfolio"
@@ -90,12 +90,6 @@ git push
 5. Deploy
 
 The image and music are base64-encoded at runtime from the repo files — no external hosting needed.
-
----
-
-## Inspiration
-
-UI aesthetic and interaction patterns inspired by [John & Patricia's Comfort Website](https://john-and-patricias-comfort-site-about-attachment-styles.com/) by Andrew Woan — a Three.js / Blender cozy room experience.
 
 ---
 
